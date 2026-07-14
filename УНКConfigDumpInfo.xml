@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.19">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.Затраты" id="4553e397-2916-45a7-bb0a-b985129f5c94" configVersion="9e0a85a692116f48ab62f6e558356eab00000000">
+			<Metadata name="AccumulationRegister.Затраты.Resource.Сумма" id="2bef1ae5-96cb-49b1-99c4-0e0c99b0c01b"/>
+			<Metadata name="AccumulationRegister.Затраты.Dimension.Магазин" id="ca975535-f9da-4db2-8ea4-fb82d1b2a4b5"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.Продукты" id="d57efc01-f696-48bd-b69f-d1fc12f8aa80" configVersion="43a440481f0a0442a3d893ea0ab1852e00000000">
+			<Metadata name="AccumulationRegister.Продукты.Dimension.Продукт" id="04d74ee4-eed8-4b7b-9c12-5afcc043fcb9"/>
+			<Metadata name="AccumulationRegister.Продукты.Resource.Количество" id="c4651503-4499-496f-a661-3bb549165e2e"/>
+			<Metadata name="AccumulationRegister.Продукты.Resource.Сумма" id="f8e06f8d-f5e2-48d9-a3dd-8757e79fbb1e"/>
+		</Metadata>
+		<Metadata name="Catalog.Магазины" id="eb95541d-d84d-4820-8608-ea697a69c473" configVersion="0caaa763aeab374f9860189d24bdab7800000000"/>
+		<Metadata name="Catalog.МестаХранения" id="4a3d3a9b-adc9-4cdf-9e07-1907df973ec1" configVersion="3956e65a6dbb584a9c736cceca1f385200000000"/>
+		<Metadata name="Catalog.Продукты" id="28257577-924d-4340-99fe-1382458cf29c" configVersion="594a24c7facf0f47839652993bfba99f00000000">
+			<Metadata name="Catalog.Продукты.TabularSection.Ингредиенты.Attribute.Количество" id="75fe2567-99ef-4e9e-ac5b-532c24ad0f86"/>
+			<Metadata name="Catalog.Продукты.TabularSection.Ингредиенты" id="7f5c087a-e554-49d0-9f22-5ff897e8db91"/>
+			<Metadata name="Catalog.Продукты.Attribute.МожноПриготовить" id="82c909ec-95f1-4e29-907c-d41078243c92"/>
+			<Metadata name="Catalog.Продукты.TabularSection.Ингредиенты.Attribute.Продукт" id="9d336f05-094c-437f-9cde-d3a6b67f710a"/>
+		</Metadata>
+		<Metadata name="Catalog.Продукты.Form.ФормаВыбора" id="778b2dcb-514b-4f8b-947c-67bd8cc33437" configVersion="297f53d282bc4e44b14fefbecaeb143400000000"/>
+		<Metadata name="Catalog.Продукты.Form.ФормаВыбора.Form" id="778b2dcb-514b-4f8b-947c-67bd8cc33437.0" configVersion="d2b73115fe68f549840ece2d6c6e251d00000000"/>
+		<Metadata name="Catalog.Продукты.Form.ФормаВыбора.Help" id="778b2dcb-514b-4f8b-947c-67bd8cc33437.1" configVersion="3f9a02b5b2929e4a9fd7ef84577f9bd400000000"/>
+		<Metadata name="Catalog.Продукты.Form.ФормаСписка" id="2e0fcb13-1fc9-42c7-b4b0-23b074124974" configVersion="7c03c4599cc2e3419185e036c865ec3500000000"/>
+		<Metadata name="Catalog.Продукты.Form.ФормаСписка.Form" id="2e0fcb13-1fc9-42c7-b4b0-23b074124974.0" configVersion="9ae809cbf822a54b82d73b7deb56b98b00000000"/>
+		<Metadata name="Catalog.Продукты.Form.ФормаЭлемента" id="9e5f81de-c63d-4f7d-bec7-0a05cf303277" configVersion="a7fbdea137d7154bbadadccc4ba18d2400000000"/>
+		<Metadata name="Catalog.Продукты.Form.ФормаЭлемента.Form" id="9e5f81de-c63d-4f7d-bec7-0a05cf303277.0" configVersion="c08a1e2470d2ab4fa8fa0e8852b0602200000000"/>
+		<Metadata name="Configuration.УправлениеНашейКухней" id="43070544-5883-43da-bb7d-52d366cd27c6" configVersion="768632178e50e64a991d780b63436d0600000000"/>
+		<Metadata name="Configuration.УправлениеНашейКухней.ClientApplicationInterface" id="364d5fe1-d977-4747-b575-fa208e84be49.b" configVersion="65f1c02e63146a448fce576a7d7318b400000000"/>
+		<Metadata name="Document.Покупка" id="d3a7f443-3dbc-48f5-8c9f-314cbe4c4396" configVersion="a662499505fa9249b5fbd43d8cc5276500000000">
+			<Metadata name="Document.Покупка.TabularSection.Продукты.Attribute.Цена" id="47ad7310-a264-4ab0-91c5-a55676c7a87f"/>
+			<Metadata name="Document.Покупка.Attribute.Магазин" id="6d039bc0-5ce5-429e-b658-068f92c33dfb"/>
+			<Metadata name="Document.Покупка.TabularSection.Продукты.Attribute.Продукт" id="d0c84bef-a44d-4b50-97f5-cbdf640abede"/>
+			<Metadata name="Document.Покупка.TabularSection.Продукты" id="e392c242-8d8d-4287-becb-d6b688f25281"/>
+			<Metadata name="Document.Покупка.TabularSection.Продукты.Attribute.Количество" id="e4e82303-e354-47d4-9a81-50a00a04db50"/>
+			<Metadata name="Document.Покупка.Attribute.СуммаДокумента" id="f9161d59-90ce-4d32-98cb-b517285471c0"/>
+		</Metadata>
+		<Metadata name="Document.Покупка.ObjectModule" id="d3a7f443-3dbc-48f5-8c9f-314cbe4c4396.0" configVersion="18b23ce440ce2f499d3385fbb07b032500000000"/>
+		<Metadata name="Document.Потребление" id="c286c825-fb9f-46bf-a6af-6e4495d4200e" configVersion="67b342653f487d4c9b9368de2772a93500000000">
+			<Metadata name="Document.Потребление.TabularSection.Продукты.Attribute.Количество" id="ac414e4f-e350-4e26-b6ae-7a9cdfab77d9"/>
+			<Metadata name="Document.Потребление.TabularSection.Продукты.Attribute.Продукт" id="b6ef5cf3-9423-49fa-9534-820478486a62"/>
+			<Metadata name="Document.Потребление.TabularSection.Продукты" id="f8032d38-9061-4873-b07f-b2dbf8e08815"/>
+		</Metadata>
+		<Metadata name="Document.Потребление.ObjectModule" id="c286c825-fb9f-46bf-a6af-6e4495d4200e.0" configVersion="e48ef3384f03574a9bee8696cebd67a200000000"/>
+		<Metadata name="Document.ПриготовлениеПродуктов" id="988aeaa2-a8fe-4a9a-be63-5a8a1ede2fd5" configVersion="f3eb12236e35994aaa3ffff589f94c9700000000">
+			<Metadata name="Document.ПриготовлениеПродуктов.Attribute.Продукт" id="1b0c9033-a2ef-4b5e-a869-fc19cbce5243"/>
+			<Metadata name="Document.ПриготовлениеПродуктов.TabularSection.Продукты.Attribute.Продукт" id="33c08db7-a3d7-4162-97a9-b5c1c2c97713"/>
+			<Metadata name="Document.ПриготовлениеПродуктов.TabularSection.Продукты.Attribute.Количество" id="3fa135f1-2fe7-4486-b36d-4845b51bfc75"/>
+			<Metadata name="Document.ПриготовлениеПродуктов.Attribute.КоличествоПорций" id="520dcae6-0d4a-4a2b-8a81-2c204dd61a36"/>
+			<Metadata name="Document.ПриготовлениеПродуктов.TabularSection.Продукты" id="73d85f2e-28d7-4078-9e00-d096ff72738b"/>
+		</Metadata>
+		<Metadata name="Document.ПриготовлениеПродуктов.Form.ФормаДокумента" id="49acb2b1-628e-43ec-8b96-f939b24e9d94" configVersion="fa8d11a6ad9b704da481c165f7a4d0d900000000"/>
+		<Metadata name="Document.ПриготовлениеПродуктов.Form.ФормаДокумента.Form" id="49acb2b1-628e-43ec-8b96-f939b24e9d94.0" configVersion="f012732b76ad7a49aa456384347fdc0800000000"/>
+		<Metadata name="Document.ПриготовлениеПродуктов.Help" id="988aeaa2-a8fe-4a9a-be63-5a8a1ede2fd5.1" configVersion="d59017b823edaa44a324412e6d5873b300000000"/>
+		<Metadata name="Document.ПриготовлениеПродуктов.ManagerModule" id="988aeaa2-a8fe-4a9a-be63-5a8a1ede2fd5.2" configVersion="3a7e8905ce20eb4d907d583c23c5beb200000000"/>
+		<Metadata name="Document.ПриготовлениеПродуктов.ObjectModule" id="988aeaa2-a8fe-4a9a-be63-5a8a1ede2fd5.0" configVersion="bd30d04fe01da444b7f9dd8c4459640700000000"/>
+		<Metadata name="Language.Русский" id="d908288d-f135-45d4-8789-136840b433db" configVersion="1c5f14ec2d63c143b1cfac026f59d51300000000"/>
+		<Metadata name="Report.ОстаткиПродуктов" id="a4410563-6760-4432-a08f-709c82513c8d" configVersion="b4e6540eaac3bf439f57cc896487b93700000000"/>
+		<Metadata name="Report.ОстаткиПродуктов.Template.ОсновнаяСхемаКомпоновкиДанных" id="0ab6455b-8569-43f3-8974-3504d1d53eb4" configVersion="8b2d05ff6e340045b63e5bce32d0c2e300000000"/>
+		<Metadata name="Report.ОстаткиПродуктов.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="0ab6455b-8569-43f3-8974-3504d1d53eb4.0" configVersion="d01b29a323ccba4a9432f3d4b58fb4e400000000"/>
+		<Metadata name="Subsystem.Кухня" id="4c85e628-1e76-43c3-9aa9-26f27f0fe957" configVersion="f6591f135e1b6847a2325dcaba839e1000000000"/>
+		<Metadata name="Subsystem.Кухня.CommandInterface" id="4c85e628-1e76-43c3-9aa9-26f27f0fe957.1" configVersion="5df1e45da2ba2a4386a8cee6289c323000000000"/>
+		<Metadata name="Subsystem.Кухня.Subsystem.Документы" id="9b52e9f7-16ae-4065-bf1f-39e2e62fef29" configVersion="bd49bd4c8fe63b47bde7e115cf82b6d600000000"/>
+		<Metadata name="Subsystem.Кухня.Subsystem.Отчеты" id="b72f5ccc-85f9-4cab-9f22-20186e45589d" configVersion="de0e03aabfd37c4fab9490852d18379c00000000"/>
+		<Metadata name="Subsystem.Кухня.Subsystem.Регистры" id="bea3ad76-5c68-4be5-b7ec-374cda3bdf24" configVersion="8e613321effe2b43b65c09e4ed7673de00000000"/>
+		<Metadata name="Subsystem.Кухня.Subsystem.Регистры.CommandInterface" id="bea3ad76-5c68-4be5-b7ec-374cda3bdf24.1" configVersion="18d993b2dfbdbf47ba2f558b0849b99700000000"/>
+		<Metadata name="Subsystem.Кухня.Subsystem.Справочники" id="bb1d2923-ef34-44b9-a474-e0c5e5fe7112" configVersion="c52829a5e5033445b6b47871cd75a43b00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
