@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="./screenshots/unk-main-window.jpg"
+  <img src="./screenshots/unk-main-window.JPG"
        alt="Главное окно конфигурации Управление нашей кухней"
        width="900">
 </p>
