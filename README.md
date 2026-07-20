@@ -160,7 +160,7 @@
 Отчёт построен на СКД и показывает количество и стоимость продуктов на выбранную дату.
 
 <p align="center">
-  <img src="./screenshots/unk-report.jpg"
+  <img src="./screenshots/unk-report.JPG"
        alt="Отчёт по остаткам продуктов на СКД"
        width="900">
 </p>
@@ -170,7 +170,7 @@
 В конфигурации используются справочники, документы, регистры накопления и отчёт на СКД.
 
 <p align="center">
-  <img src="./screenshots/unk-metadata-tree.jpg"
+  <img src="./screenshots/unk-metadata-tree.JPG"
        alt="Дерево объектов конфигурации Управление нашей кухней"
        width="420">
 </p>
@@ -180,7 +180,7 @@
 Документы формируют движения по регистрам накопления: поступление, списание продуктов и учёт затрат.
 
 <p align="center">
-  <img src="./screenshots/unk-document.jpg"
+  <img src="./screenshots/unk-document.JPG"
        alt="Заполненный документ в конфигурации Управление нашей кухней"
        width="900">
 </p>
